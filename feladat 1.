@@ -1,0 +1,6 @@
+X = int(input("Adj meg egy számot: ")) 
+Y = int(input("Adj meg egy számot: ")) 
+if X > Y:
+  print(X, "a nagyobb!")
+else:
+  print(Y, "a nagyobb!")
